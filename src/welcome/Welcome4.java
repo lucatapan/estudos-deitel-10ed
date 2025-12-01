@@ -1,4 +1,4 @@
-package Welcome;//exibindo multiplas linhas com o metodo System.out.prinf
+package welcome;//exibindo multiplas linhas com o metodo System.out.prinf
 
 
 public class Welcome4 {

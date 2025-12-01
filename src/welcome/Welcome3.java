@@ -1,4 +1,4 @@
-package Welcome;//escrevendo multiplas linhas de texto com uma única instrução
+package welcome;//escrevendo multiplas linhas de texto com uma única instrução
 
         public class Welcome3 {
 

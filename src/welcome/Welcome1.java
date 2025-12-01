@@ -1,4 +1,4 @@
-package Welcome;/* Primeiro código do livro Deitel 10ª edição Welcome.Welcome1.java @LucianoCatapan 28/11/25*/
+package welcome;/* Primeiro código do livro Deitel 10ª edição Welcome.Welcome1.java @LucianoCatapan 28/11/25*/
 
 public class Welcome1 {
 
