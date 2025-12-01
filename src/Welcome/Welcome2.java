@@ -1,4 +1,4 @@
-//segundo estudo de printl com multiplas instruções
+package Welcome;//segundo estudo de printl com multiplas instruções
 
 public class Welcome2  {
 
