@@ -10,6 +10,6 @@ public class Conta {
     }
     //metodo para recuperar o nome do objeto
     public String getName(){
-        return nome;
+        return nome; //
     }
 }
